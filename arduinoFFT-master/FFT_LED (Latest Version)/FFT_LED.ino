@@ -1,6 +1,6 @@
 /*
  * FileName: FFT_LED.ino
- * Author: LandmineSoldier(이호경, Lee-Hogyeong) & hojin(최호진, Choi-Hojin)
+ * Author: LandmineSoldier(이호경, Lee-Hogyeong) & hojin35(최호진, Choi-Hojin)
  * Date: 2021-12-21
  * Description: 9*9 sound equalizer code
  */
