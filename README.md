@@ -1,4 +1,4 @@
 # SoundEqualizer
-Sound equalizer (or SoundVisualizer)
+AudioVisualizer (or Equalizer)
 
 FFT_LED is latest version
